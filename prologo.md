@@ -5,10 +5,15 @@
 ## 🌌 O Arquiteto
 ![linus](img/linus.png)
 Era uma era de trevas no universo da informação. Sistemas fechados governavam com mãos de ferro, aprisionando usuários em licenças restritivas e muros invisíveis. Cada comando era uma corrente, cada clique uma submissão.
+
 Mas, em um canto esquecido da galáxia digital, um jovem solitário ousou desafiar os titãs do código fechado. Seu nome ecoaria pelos servidores como um sussurro de liberdade: [Linus Torvalds](https://github.com/torvalds).
+
 Em 1991, Linus, estudante da Universidade de Helsinque, anunciou em um grupo de discussão:
 
 "Estou fazendo um sistema operacional (apenas um hobby, não será grande e profissional como o [GNU](https://www.gnu.org/home.pt-br.html)...)"
+
+### 🔥 Curiosidade Épica: 
+Linus inicialmente usou uma licença própria, mas em 1992 adotou a GPLv2, garantindo que o código permanecesse livre e que melhorias fossem compartilhadas.
 
 Essas palavras foram o clarão que iluminou a escuridão. Assim nasceu o Kernel Linux, um núcleo puro e livre, capaz de dar vida a sistemas abertos. O primeiro release público foi a versão 0.01, lançada em setembro de 1991 — um código que mudaria o destino das galáxias digitais.
 
@@ -21,7 +26,7 @@ Mas Linux não estava sozinho. Ele se apoiou no projeto GNU, iniciado por [Richa
 ## 🐧 O Símbolo da Liberdade
 ![tux](img/tux.png)
 O mascote TUX, um pinguim simpático, nasceu em 1996 pelas mãos de [Larry Ewing](https://www.linkedin.com/in/lewing/).
-Por que um pinguim? Linus tinha uma afeição peculiar por pinguins após uma visita a um zoológico. O nome TUX vem de Torvalds UniX. Desde então, TUX tornou-se o emblema da filosofia do código aberto — um guerreiro pacífico que lideraria batalhas contra impérios corporativos.
+Por que um pinguim? Linus tinha uma afeição peculiar por pinguins após uma visita a um zoológico australiano no qual ele foi mordido por um, e isso virou uma piada interna que se transformou em símbolo. O nome TUX vem de Torvalds UniX. Desde então, TUX tornou-se o emblema da filosofia do código aberto — um guerreiro pacífico que lideraria batalhas contra impérios corporativos.
 
 ## 🌳 A Árvore do Sistema
 ![arvore](img/arvore.png)
@@ -39,15 +44,20 @@ Esse conceito vem do Unix, que definiu a hierarquia de diretórios como uma form
 ## ⚔️ O Ritual do Kernel
 ![ritual](img/ritual.png)
 TUX ajoelhou-se diante da Árvore e iniciou o ritual. Seus olhos brilharam com linhas de código, e sua voz ecoou como um comando sagrado:
-```Shell
+```bash
 sudo apt update && sudo apt upgrade -y
 ```
 As galáxias estremeceram. Pacotes antigos foram purificados, e novos fragmentos de poder fluíram para os servidores do império.
 Ele ergueu sua lâmina e entoou o segundo verso do feitiço:
-```Shell
+```bash
 sudo apt install linux-image-generic
 ```
 O Kernel respondeu, expandindo-se como um sol nascente. Cada bit era uma centelha de liberdade, cada syscall um golpe contra as forças do código fechado.
+
+## 🛠️ O Papel do Syscall na História
+Quando Linus forjou o Kernel, ele não apenas criou um núcleo, mas também definiu a linguagem secreta entre o usuário e o sistema: as syscalls (system calls).
+Elas são os portais que permitem que programas comuniquem-se com o Kernel para executar tarefas essenciais — abrir arquivos, criar processos, gerenciar memória.
+Sem syscalls, o império Linux não teria voz nem poder. Cada comando digitado é uma invocação, cada syscall um pacto entre o código e o núcleo, garantindo que a liberdade do sistema seja funcional e segura.
 
 ## 🏰 O Imperador do Código
 ![imperador](img/imperador.png)
@@ -77,9 +87,6 @@ Nos anos 2000, Linux era visto como ameaça ao domínio da Microsoft. A famosa f
 
 "Linux é um câncer"
 marcou uma era de rivalidade, mas hoje Linux é a base de sistemas como Android e domina servidores.
-
-Por que TUX é um pinguim?
-Linus foi "mordido" por um pinguim em um zoológico australiano, e isso virou uma piada interna que se transformou em símbolo.
 
 O poder da Árvore de Diretórios
 A estrutura hierárquica do Linux é inspirada no Unix, permitindo modularidade e simplicidade. Cada diretório tem um papel estratégico na organização do sistema.
