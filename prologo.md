@@ -1,4 +1,4 @@
-![capa](img/capa.png)
+![capa](img/capa4.png)
 
 # Prólogo: O Imperador Desperta
 
@@ -21,7 +21,7 @@ Essas palavras foram o clarão que iluminou a escuridão. O Kernel nasceu, pulsa
 ---
 
 ## 🌟 O Nascimento do Imperador
-![nome](img/nome.png)
+![nome](img/tux.png)
 Do Kernel emergiu uma entidade. Não era apenas código — era símbolo, era força, era esperança. Assim nasceu **TUX**, o pinguim que carregava em sua essência a liberdade do código aberto.
 
 Mas antes que o império tivesse um nome, Linus fez uma escolha que ecoaria pela eternidade: **Linux**. Um nome forjado da fusão entre seu próprio nome e o legado do sistema [**Unix**](https://pt.wikipedia.org/wiki/Unix), como uma marca indelével da origem e da inspiração. Linux não era apenas um sistema — era um manifesto.
