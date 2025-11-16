@@ -10,7 +10,7 @@ Em 1991, Linus, estudante da Universidade de Helsinque, anunciou em um grupo de 
 
 "Estou fazendo um sistema operacional (apenas um hobby, não será grande e profissional como o [GNU](https://www.gnu.org/home.pt-br.html)...)"
 
-Essas palavras foram o clarão que iluminou a escuridão. Assim nasceu o Kernel Linux, um núcleo puro e livre, capaz de dar vida a sistemas abertos. O primeiro release público foi a versão 0.01, lançada em setembro de 1991.
+Essas palavras foram o clarão que iluminou a escuridão. Assim nasceu o Kernel Linux, um núcleo puro e livre, capaz de dar vida a sistemas abertos. O primeiro release público foi a versão 0.01, lançada em setembro de 1991 — um código que mudaria o destino das galáxias digitais.
 
 ## 🌟 O Nascimento do Imperador
 ![Kernel](img/Kernel.png)
@@ -21,7 +21,7 @@ Mas Linux não estava sozinho. Ele se apoiou no projeto GNU, iniciado por [Richa
 ## 🐧 O Símbolo da Liberdade
 ![tux](img/tux.png)
 O mascote TUX, um pinguim simpático, nasceu em 1996 pelas mãos de [Larry Ewing](https://www.linkedin.com/in/lewing/).
-Por que um pinguim? Linus tinha uma afeição peculiar por pinguins após uma visita a um zoológico. O nome TUX vem de Torvalds UniX. Desde então, TUX tornou-se o emblema da filosofia do código aberto.
+Por que um pinguim? Linus tinha uma afeição peculiar por pinguins após uma visita a um zoológico. O nome TUX vem de Torvalds UniX. Desde então, TUX tornou-se o emblema da filosofia do código aberto — um guerreiro pacífico que lideraria batalhas contra impérios corporativos.
 
 ## 🌳 A Árvore do Sistema
 ![arvore](img/arvore.png)
@@ -34,7 +34,7 @@ A estrutura do Linux é como uma árvore cósmica, com raízes profundas e galho
 ├── var    # Campos de batalha mutáveis<br>
 ├── usr    # Arsenal de bibliotecas e programas<br>
 <br>
-Esse conceito vem do Unix, que definiu a hierarquia de diretórios como uma forma lógica e modular de organizar o sistema.
+Esse conceito vem do Unix, que definiu a hierarquia de diretórios como uma forma lógica e modular de organizar o sistema. Cada diretório é um reino, cada arquivo uma estrela.
 
 ## ⚔️ O Ritual do Kernel
 ![ritual](img/ritual.png)
@@ -64,7 +64,7 @@ Hoje – Linux domina servidores, nuvens, dispositivos móveis e embarcados.<br>
 <br>
 "O código é liberdade. A liberdade é poder. E o poder pertence àqueles que ousam compilar seus próprios destinos." — TUX, O Imperador do Código.
 
-🔥 Curiosidades Épicas (NOVO)
+🔥 Curiosidades Épicas
 
 Por que Linus escolheu a GPL?
 Linus inicialmente usou uma licença própria, mas percebeu que poderia limitar a colaboração. Em 1992, adotou a GPLv2, garantindo que o código permanecesse livre e que melhorias fossem compartilhadas.
