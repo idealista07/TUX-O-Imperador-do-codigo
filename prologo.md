@@ -1,4 +1,4 @@
-![capa](img/capa4.png)
+![capa](img/capa3.png)
 
 # Prólogo: O Imperador Desperta
 
