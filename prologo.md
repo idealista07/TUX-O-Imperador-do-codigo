@@ -60,6 +60,7 @@ sudo apt install linux-image-generic
 O Kernel respondeu, expandindo-se como um sol nascente. Cada bit era uma centelha de liberdade, cada syscall um golpe contra as forças do código fechado.
 
 ## 🏛️ As Primeiras Distribuições: O Início da Expansão
+![Mapa](img/mapa.png)
 Após o nascimento do Kernel, o império precisava de legiões para levar a liberdade aos confins da galáxia digital. Assim surgiram as primeiras distribuições Linux, cada uma como uma frota rebelde trazendo ferramentas e esperança:
 
 - 1992 – MCC Interim Linux: Uma das primeiras distribuições, simples e funcional, criada para facilitar a instalação do Linux em sistemas comuns.
@@ -69,6 +70,7 @@ Após o nascimento do Kernel, o império precisava de legiões para levar a libe
 > Essas distribuições moldaram o ecossistema atual, dando origem a descendentes poderosos como Ubuntu, Fedora e Arch, que hoje governam servidores, nuvens e dispositivos móveis.
 
 ## 🛠️ O Papel do Syscall na História
+![Syscall](img/syscall.png)
 Quando Linus forjou o Kernel, ele não apenas criou um núcleo, mas também definiu a linguagem secreta entre o usuário e o sistema: as syscalls (system calls).
 
 Elas são os portais que permitem que programas comuniquem-se com o Kernel para executar tarefas essenciais
